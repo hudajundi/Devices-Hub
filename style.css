@@ -1,0 +1,35 @@
+
+
+body{
+
+    background-image: url(background.jpg);
+    font-family: 'Roboto', sans-serif;
+}
+
+table{
+    border: solid;
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+
+
+}
+
+form{
+    width: 30%;
+    text-align: center;
+    color:;
+
+}
+h1{
+    background-color: darkgray;
+    text-align: center;
+    color: #F5F5DC;
+    font-size: xx-large;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+
